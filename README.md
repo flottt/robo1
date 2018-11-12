@@ -1,2 +1,1 @@
-# robo1
-uebungen robotik
+nur uebung fuer robotik
